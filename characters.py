@@ -73,6 +73,6 @@ class Character:
 
 # print("\n" + str(barbarian))
 # print(f"Barbarian HP: {barbarian.hit_points}")
-# fighter.equip_armor("Boobplate", 20)
+# fighter.equip_armor("Breastplate", 20)
 # print(f"Fighter Armor: {fighter.equipment['armor']}")
 # print(f"Fighter Armor multi: {fighter.armor_multiplier}")
